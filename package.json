@@ -1,0 +1,15 @@
+{
+  "name": "outro-nome-ts",
+  "version": "1.0.0",
+  "description": "primeiro projeto com node e ts",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc --watch",
+    "start": "node ./public/js/main.js"
+  },
+  "author": "Leticia Leal",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
